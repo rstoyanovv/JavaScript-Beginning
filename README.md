@@ -1,2 +1,2 @@
 # JavaScriptFundamentals
-In this repository I upload tasks that can be referred to the fundamental knowledge of JavaScript.
+In this repository I upload tasks which can be associated to the fundamental knowledge of JavaScript.
