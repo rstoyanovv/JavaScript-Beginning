@@ -5,7 +5,6 @@ function charToString(char1, char2, char3) {
     console.log(`The string of ${char1}, ${char2} and ${char3} is ${str}.`);
 }
 
-console.log("----------------");
 console.log("Task 1: ");
 charToString('a', 'b', 'c');
 charToString('s', '2', '#');
