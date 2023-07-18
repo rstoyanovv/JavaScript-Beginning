@@ -1,6 +1,5 @@
 function store (stock, ordered){
     let storedProducts = {};
-    let store;
     for(let i = 0; i < stock.length; i+=2){
         let currentProduct = stock[i];
         storedProducts[currentProduct] = parseInt(stock[i+1]);
